@@ -277,6 +277,7 @@ The sources in this repository are Open Source released under [MIT](LICENSE) lic
 
 # Authors & Contributors
 
+- António Matos
 - Axel Gauweiler
 - [Axel Schüssler](https://github.com/bitterblue)
 - Benjamin Höhensteiger
